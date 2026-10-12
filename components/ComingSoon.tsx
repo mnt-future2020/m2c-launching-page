@@ -263,7 +263,7 @@ export default function ComingSoon() {
       </section>
 
       <footer className="relative z-10 py-6 text-center text-sm text-ink/45">
-        © 2026 M2C Markdowns · The shortest distance between Maker and Consumer
+        © 2026 M2C Markdowns Pvt Ltd · The shortest distance between Maker and Consumer
       </footer>
     </main>
   );
